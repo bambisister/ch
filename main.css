@@ -1,0 +1,39 @@
+.profile{
+display:block; 
+margin-left:auto; 
+margin-right:auto;
+}
+.hello{
+    text-align: center;
+     color: black;
+}
+
+.bambi {
+    color: coral; 
+    text-align: center;
+}
+
+.today{
+    font-size: 30px;
+}
+.hi{
+    text-align: center;
+}
+.wow{
+    font-size: 30px; color:cornflowerblue;
+}
+
+.box{
+    width: 100px;
+    background: cadetblue;
+    margin: 10px;
+    padding: 30px;
+    border: 5px solid black;
+    border-radius: 10px; 
+    margin-left:auto; 
+    margin-right:auto;
+    font-size: 15px;
+    text-align: center;
+    color:white;
+    box-shadow: 10px 10px 10px gray;
+}
