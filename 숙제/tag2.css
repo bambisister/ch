@@ -1,26 +1,27 @@
 .grond{
     width: 800px;
-    display: block;
+    display:block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .left{
     width: 80%;
-    height: 200px;
-    background-color: white;
+    height: 300px;
+    background-color:white;
     float: left;
 }
 
 .right{
     width: 20%;
-    height: 200px;
+    height: 300px;
     background-color: white;
     float: left;
 }
 
-.profile{
-    width: 100px;
+.proflie{
+    display: block;
+    width: 50px;
     float: left;
 }
 
@@ -28,24 +29,30 @@
     float: left;
 }
 
-.me{
-    clear: both;
-}
-
-.nav li{
+.top li {
     display: inline-block;
     text-align: center;
-    font-size: 10px;
-    margin: 10px;
-width: 50px;
-padding: 10px;
-background-color: #eee;
-border-radius: 5px;
+    font-family: inherit;
+    width: 50px;
+    padding: 10px;
+    background-color: #f9e5c9;
+    border-radius: 10px;
+    
 }
 
-.nav a{
+.top a{
+    font-size: 16px;
     text-decoration: none;
     color: black;
 }
 
+.cafe{
+    display: inline-block;
+    width: 20%;
+    float: left;
+}
 
+.box{
+    float: left;
+    display: inline;
+}
