@@ -1,0 +1,32 @@
+.top{
+width: 800px;
+}
+
+.left{
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    float: left;
+
+}
+
+.blog-gom{
+    width: 70px;
+    float: left;
+    display: block;
+}
+
+.right{
+    width: 20%;
+    height: 200px;
+    background-color: white;
+    float: left;
+}
+
+.name{
+    float: left;
+}
+
+.name2{
+    clear: both;
+}
