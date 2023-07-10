@@ -1,0 +1,51 @@
+.grond{
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left{
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    float: left;
+}
+
+.right{
+    width: 20%;
+    height: 200px;
+    background-color: white;
+    float: left;
+}
+
+.profile{
+    width: 100px;
+    float: left;
+}
+
+.name{
+    float: left;
+}
+
+.me{
+    clear: both;
+}
+
+.nav li{
+    display: inline-block;
+    text-align: center;
+    font-size: 10px;
+    margin: 10px;
+width: 50px;
+padding: 10px;
+background-color: #eee;
+border-radius: 5px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: black;
+}
+
+
