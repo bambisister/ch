@@ -1,0 +1,13 @@
+.ctgr p {
+    display:inline-block;
+    width: 60px;
+    padding: 10px;
+    background-color: #eee;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.ctgr a {
+    text-decoration: none;
+}
